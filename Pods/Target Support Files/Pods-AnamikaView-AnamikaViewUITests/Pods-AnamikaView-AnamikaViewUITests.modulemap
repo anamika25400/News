@@ -1,0 +1,6 @@
+framework module Pods_AnamikaView_AnamikaViewUITests {
+  umbrella header "Pods-AnamikaView-AnamikaViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
